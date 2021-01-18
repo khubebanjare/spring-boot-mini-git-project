@@ -1,4 +1,4 @@
-package org.kk.spring.boot.controller
+package org.kk.spring.boot.controller;
 
 public class CollegeController{
 
